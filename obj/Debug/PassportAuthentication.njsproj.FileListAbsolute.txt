@@ -1,0 +1,3 @@
+D:\Node.JS\PassportJS by Jake\PassportAuthExample-master\obj\Debug\PassportAuthentication.njsprojAssemblyReference.cache
+D:\Node.JS\PassportJS by Jake\PassportAuthExample-master\obj\Debug\PassportAuthentication.njsproj.CoreCompileInputs.cache
+D:\Node.JS\PassportJS by Jake\PassportAuthExample-master\bin\Microsoft.NodejsTools.WebRole.dll
